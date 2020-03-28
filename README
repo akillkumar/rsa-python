@@ -9,7 +9,7 @@ This RSA implementation consists of 4 python files-
 (3) decrypt.py - For decrypting ciphertext (encrypted with public key) using private key
 (4) helper.py - Custom helper file with required functions such as prime generation and modular exponentiation
 
-One can run this by using the driver code present in the file r"un.py"
+One can run this by using the driver code present in the file "run.py"
 In your terminal, simply enter -
 	python run.py
 
